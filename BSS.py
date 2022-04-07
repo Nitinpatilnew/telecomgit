@@ -1,0 +1,2 @@
+Print"Welcome to Telecom World"[D[C[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C([C[C[D[D[2~"[C[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C Welcome to Telecom world"[D [C[D")
+q
